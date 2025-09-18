@@ -26,5 +26,5 @@ The goal of this repository is to showcase skills in data analysis, visualizatio
 ---
 
 ## 🔗 Connect with Me
-- [LinkedIn](#)  
+- [LinkedIn](#)  https://www.linkedin.com/in/muhammadsiraj7
 - [GitHub](#)  
